@@ -27,9 +27,6 @@ uvicorn app.main:app --reload
 
 Open:
 - http://127.0.0.1:8000/ (home)
-- http://127.0.0.1:8000/register
-- http://127.0.0.1:8000/calculator
-- http://127.0.0.1:8000/reports
 
 ## 2) Run tests (unit + integration)
 
