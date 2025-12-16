@@ -13,7 +13,7 @@ This project includes:
 
 **Terminal 1 (backend):**
 ```powershell
-cd "<YOUR_PROJECT_FOLDER>"
+cd 
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
