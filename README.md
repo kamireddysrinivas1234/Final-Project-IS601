@@ -77,3 +77,4 @@ docker compose up --build
 - App: http://127.0.0.1:8000
 - Postgres is mapped to host port **5437** (change it in `docker-compose.yml` if you get “port is already allocated”)
 
+Docker link : https://hub.docker.com/repository/docker/srinivaskamireddy/fastapi-feature-assignment/general
